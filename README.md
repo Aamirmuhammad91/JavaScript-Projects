@@ -1,2 +1,2 @@
 # Web-Development
-The work I did while learning Web Development
+Small Projects making use of Javascript, HTML and CSS
